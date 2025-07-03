@@ -1,9 +1,12 @@
-# ProjektDokumentationVorlage
-Hier eine detaillierte Vorlage für die Projektdokumentation
+# ProjectDocumentationTemate
 
-Sie können diese für Ihren Mac/MacBook einfach herunterladen und für die iOS App Pages benutzen oder auf iCloud.com einfach umwandeln 
+I offer you an free project documentation template that is written in german
 
-Ich hoffe Sie freuen sich über diese Möglichkeit :)
+you can just download/translate it for your personal use
 
-mfg
+if you don't have a iOS based PC, you can just convert it from a .pages to and .docx at iCloud.com
+
+I hope you enjoy this possibility :)
+
+greetings!
 Raphael Schillmeier
