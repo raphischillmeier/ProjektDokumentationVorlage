@@ -1,4 +1,4 @@
-# ProjectDocumentationTemate
+# ProjectDocumentationTemplate
 
 I offer you an free project documentation template that is written in german
 
